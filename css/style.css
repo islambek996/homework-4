@@ -85,7 +85,8 @@ body {
 }
 
 .bonuses {
-    width: 1250px;
+    max-width: 1250px;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -104,8 +105,9 @@ body {
 }
 
 .bonus p {
-    margin: 0;
-    font-size: 15px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
 }
 
 .collections {
