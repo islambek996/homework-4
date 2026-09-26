@@ -55,6 +55,7 @@ body {
 .main-title {
     font-size: 30px;
     line-height: 36px;
+    font-weight: 700;
     color: #000;
     margin-left: 570px;
 }
@@ -68,6 +69,7 @@ body {
 .main-info p {
     font-size: 16px;
     line-height: 30px;
+    font-weight: 500;
     color: #fff;
 }
 
